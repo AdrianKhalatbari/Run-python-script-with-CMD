@@ -1,0 +1,2 @@
+run this command on CMD
+>python3 *.py 8 23 9 17 12 4 32 89
